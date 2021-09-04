@@ -1,16 +1,17 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm IG Dev <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a></h1>
+<h3 align="center">A passionate Frontend Developer from Vietnam</h3>
+<br />
 
-<!--
-**Hoai08IT/Hoai08IT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**This is the place where I opensource stuff and break things 🦁**
 
-Here are some ideas to get you started:
+- 🍔 I’m currently live in Vietnam
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🍩 React Js? Yeah!!
+
+- 🍞 All of my projects are available at **[https://github.com/igdev116](https://github.com/igdev116)**
+
+- 💬 Ask me about JavaScript/React Js
+
+- ⚡ Fun fact 👉 I think I'm a perfectionist 😂
+  <br />
+  <br />
